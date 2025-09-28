@@ -1,0 +1,1010 @@
+✅ Expanded ORM schema created in market_data.db
+📜 Loaded mission manifest (503 stocks) from: /home/sudipaiml/stock_analysis/agcodes/scraper-run/screener-scripts-results/mission_manifest_20250928_142614.json
+🚀 Ready to process 503 HTML files from latest scan (20250928_142614)...
+[1/503] ADANIPOWER
+📦 Updated fundamentals in DB for: ADANIPOWER
+[2/503] ALLTIME
+📦 Updated fundamentals in DB for: ALLTIME
+[3/503] AMNPLST
+📦 Updated fundamentals in DB for: AMNPLST
+[4/503] ASHOKA
+📦 Updated fundamentals in DB for: ASHOKA
+[5/503] AVANTEL
+📦 Updated fundamentals in DB for: AVANTEL
+[6/503] BLS
+📦 Updated fundamentals in DB for: BLS
+[7/503] BEL
+📦 Updated fundamentals in DB for: BEL
+[8/503] CMSINFO
+📦 Updated fundamentals in DB for: CMSINFO
+[9/503] CARRARO
+📦 Updated fundamentals in DB for: CARRARO
+[10/503] COALINDIA
+📦 Updated fundamentals in DB for: COALINDIA
+[11/503] DBCORP
+📦 Updated fundamentals in DB for: DBCORP
+[12/503] DLINKINDIA
+📦 Updated fundamentals in DB for: DLINKINDIA
+[13/503] DDEVPLSTIK
+📦 Updated fundamentals in DB for: DDEVPLSTIK
+[14/503] DAMCAPITAL
+📦 Updated fundamentals in DB for: DAMCAPITAL
+[15/503] DYCL
+📦 Updated fundamentals in DB for: DYCL
+[16/503] EIHOTEL
+📦 Updated fundamentals in DB for: EIHOTEL
+[17/503] EIHAHOTELS
+📦 Updated fundamentals in DB for: EIHAHOTELS
+[18/503] ECOSMOBLTY
+📦 Updated fundamentals in DB for: ECOSMOBLTY
+[19/503] ELGIEQUIP
+📦 Updated fundamentals in DB for: ELGIEQUIP
+[20/503] ENGINERSIN
+📦 Updated fundamentals in DB for: ENGINERSIN
+[21/503] EVEREADY
+📦 Updated fundamentals in DB for: EVEREADY
+[22/503] FCL
+📦 Updated fundamentals in DB for: FCL
+[23/503] GOKULAGRO
+📦 Updated fundamentals in DB for: GOKULAGRO
+[24/503] 505710
+📦 Updated fundamentals in DB for: 505710
+[25/503] GPPL
+📦 Updated fundamentals in DB for: GPPL
+[26/503] INDRAMEDCO
+📦 Updated fundamentals in DB for: INDRAMEDCO
+[27/503] INDUSTOWER
+📦 Updated fundamentals in DB for: INDUSTOWER
+[28/503] IVALUE
+📦 Updated fundamentals in DB for: IVALUE
+[29/503] JSWINFRA
+📦 Updated fundamentals in DB for: JSWINFRA
+[30/503] JAGSNPHARM
+📦 Updated fundamentals in DB for: JAGSNPHARM
+[31/503] JWL
+📦 Updated fundamentals in DB for: JWL
+[32/503] JYOTHYLAB
+📦 Updated fundamentals in DB for: JYOTHYLAB
+[33/503] KNRCON
+📦 Updated fundamentals in DB for: KNRCON
+[34/503] LTFOODS
+📦 Updated fundamentals in DB for: LTFOODS
+[35/503] LAXMIDENTL
+📦 Updated fundamentals in DB for: LAXMIDENTL
+[36/503] MCLOUD
+📦 Updated fundamentals in DB for: MCLOUD
+[37/503] MAMATA
+📦 Updated fundamentals in DB for: MAMATA
+[38/503] MEIL
+📦 Updated fundamentals in DB for: MEIL
+[39/503] MARKSANS
+📦 Updated fundamentals in DB for: MARKSANS
+[40/503] MASTERTR
+📦 Updated fundamentals in DB for: MASTERTR
+[41/503] NATIONALUM
+📦 Updated fundamentals in DB for: NATIONALUM
+[42/503] PDMJEPAPER
+📦 Updated fundamentals in DB for: PDMJEPAPER
+[43/503] RAJOOENG
+📦 Updated fundamentals in DB for: RAJOOENG
+[44/503] SAKSOFT
+📦 Updated fundamentals in DB for: SAKSOFT
+[45/503] LOTUSDEV
+📦 Updated fundamentals in DB for: LOTUSDEV
+[46/503] STEELCAS
+📦 Updated fundamentals in DB for: STEELCAS
+[47/503] 526506
+📦 Updated fundamentals in DB for: 526506
+[48/503] TAJGVK
+📦 Updated fundamentals in DB for: TAJGVK
+[49/503] TALBROAUTO
+📦 Updated fundamentals in DB for: TALBROAUTO
+[50/503] USHAMART
+📦 Updated fundamentals in DB for: USHAMART
+[51/503] VIKRAMSOLR
+📦 Updated fundamentals in DB for: VIKRAMSOLR
+[52/503] ENFUSE
+📦 Updated fundamentals in DB for: ENFUSE
+[53/503] ADFFOODS
+📦 Updated fundamentals in DB for: ADFFOODS
+[54/503] AEROFLEX
+📦 Updated fundamentals in DB for: AEROFLEX
+[55/503] BCLIND
+📦 Updated fundamentals in DB for: BCLIND
+[56/503] BEPL
+📦 Updated fundamentals in DB for: BEPL
+[57/503] BHARATWIRE
+📦 Updated fundamentals in DB for: BHARATWIRE
+[58/503] BSOFT
+📦 Updated fundamentals in DB for: BSOFT
+[59/503] BBOX
+📦 Updated fundamentals in DB for: BBOX
+[60/503] BSHSL
+📦 Updated fundamentals in DB for: BSHSL
+[61/503] CLSEL
+📦 Updated fundamentals in DB for: CLSEL
+[62/503] CROMPTON
+📦 Updated fundamentals in DB for: CROMPTON
+[63/503] DOLATALGO
+📦 Updated fundamentals in DB for: DOLATALGO
+[64/503] EASEMYTRIP
+📦 Updated fundamentals in DB for: EASEMYTRIP
+[65/503] EIEL
+📦 Updated fundamentals in DB for: EIEL
+[66/503] GNA
+📦 Updated fundamentals in DB for: GNA
+[67/503] GANDHAR
+📦 Updated fundamentals in DB for: GANDHAR
+[68/503] GEOJITFSL
+📦 Updated fundamentals in DB for: GEOJITFSL
+[69/503] GOLDIAM
+📦 Updated fundamentals in DB for: GOLDIAM
+[70/503] GOPAL
+📦 Updated fundamentals in DB for: GOPAL
+[71/503] GUJGASLTD
+📦 Updated fundamentals in DB for: GUJGASLTD
+[72/503] HMAAGRO
+📦 Updated fundamentals in DB for: HMAAGRO
+[73/503] IIFLCAPS
+📦 Updated fundamentals in DB for: IIFLCAPS
+[74/503] IKIO
+📦 Updated fundamentals in DB for: IKIO
+[75/503] IONEXCHANG
+📦 Updated fundamentals in DB for: IONEXCHANG
+[76/503] IEX
+📦 Updated fundamentals in DB for: IEX
+[77/503] IREDA
+📦 Updated fundamentals in DB for: IREDA
+[78/503] ICIL
+📦 Updated fundamentals in DB for: ICIL
+[79/503] JNKINDIA
+📦 Updated fundamentals in DB for: JNKINDIA
+[80/503] JTLIND
+📦 Updated fundamentals in DB for: JTLIND
+[81/503] KPEL
+📦 Updated fundamentals in DB for: KPEL
+[82/503] KELLTONTEC
+📦 Updated fundamentals in DB for: KELLTONTEC
+[83/503] MMFL
+📦 Updated fundamentals in DB for: MMFL
+[84/503] MRPL
+📦 Updated fundamentals in DB for: MRPL
+[85/503] MSTCLTD
+📦 Updated fundamentals in DB for: MSTCLTD
+[86/503] MANINFRA
+📦 Updated fundamentals in DB for: MANINFRA
+[87/503] 517467
+📦 Updated fundamentals in DB for: 517467
+[88/503] MONARCH
+📦 Updated fundamentals in DB for: MONARCH
+[89/503] NITINSPIN
+📦 Updated fundamentals in DB for: NITINSPIN
+[90/503] OIL
+📦 Updated fundamentals in DB for: OIL
+[91/503] PCBL
+📦 Updated fundamentals in DB for: PCBL
+[92/503] PDSL
+📦 Updated fundamentals in DB for: PDSL
+[93/503] PNCINFRA
+📦 Updated fundamentals in DB for: PNCINFRA
+[94/503] PANAMAPET
+📦 Updated fundamentals in DB for: PANAMAPET
+[95/503] 539469
+📦 Updated fundamentals in DB for: 539469
+[96/503] PRAJIND
+📦 Updated fundamentals in DB for: PRAJIND
+[97/503] RECLTD
+📦 Updated fundamentals in DB for: RECLTD
+[98/503] RADHIKAJWE
+📦 Updated fundamentals in DB for: RADHIKAJWE
+[99/503] RVNL
+📦 Updated fundamentals in DB for: RVNL
+[100/503] RAJRATAN
+📦 Updated fundamentals in DB for: RAJRATAN
+[101/503] RPTECH
+📦 Updated fundamentals in DB for: RPTECH
+[102/503] RTNINDIA
+📦 Updated fundamentals in DB for: RTNINDIA
+[103/503] RITES
+📦 Updated fundamentals in DB for: RITES
+[104/503] SANSTAR
+📦 Updated fundamentals in DB for: SANSTAR
+[105/503] SHAREINDIA
+📦 Updated fundamentals in DB for: SHAREINDIA
+[106/503] SONACOMS
+📦 Updated fundamentals in DB for: SONACOMS
+[107/503] SONATSOFTW
+📦 Updated fundamentals in DB for: SONATSOFTW
+[108/503] SURAJEST
+📦 Updated fundamentals in DB for: SURAJEST
+[109/503] THEMISMED
+📦 Updated fundamentals in DB for: THEMISMED
+[110/503] TRIVENI
+📦 Updated fundamentals in DB for: TRIVENI
+[111/503] VSTIND
+📦 Updated fundamentals in DB for: VSTIND
+[112/503] VAIBHAVGBL
+📦 Updated fundamentals in DB for: VAIBHAVGBL
+[113/503] VBL
+📦 Updated fundamentals in DB for: VBL
+[114/503] VIDHIING
+📦 Updated fundamentals in DB for: VIDHIING
+[115/503] VPRPL
+📦 Updated fundamentals in DB for: VPRPL
+[116/503] 505872
+📦 Updated fundamentals in DB for: 505872
+[117/503] AHLADA
+📦 Updated fundamentals in DB for: AHLADA
+[118/503] 5PAISA
+📦 Updated fundamentals in DB for: 5PAISA
+[119/503] ACMESOLAR
+📦 Updated fundamentals in DB for: ACMESOLAR
+[120/503] AVTNPL
+📦 Updated fundamentals in DB for: AVTNPL
+[121/503] AWL
+📦 Updated fundamentals in DB for: AWL
+[122/503] AARTIDRUGS
+📦 Updated fundamentals in DB for: AARTIDRUGS
+[123/503] AARTIIND
+📦 Updated fundamentals in DB for: AARTIIND
+[124/503] ADVENZYMES
+📦 Updated fundamentals in DB for: ADVENZYMES
+[125/503] AEGISVOPAK
+📦 Updated fundamentals in DB for: AEGISVOPAK
+[126/503] AKUMS
+📦 Updated fundamentals in DB for: AKUMS
+[127/503] ALEMBICLTD
+📦 Updated fundamentals in DB for: ALEMBICLTD
+[128/503] ADSL
+📦 Updated fundamentals in DB for: ADSL
+[129/503] ANDHRAPAP
+📦 Updated fundamentals in DB for: ANDHRAPAP
+[130/503] ANDHRSUGAR
+📦 Updated fundamentals in DB for: ANDHRSUGAR
+[131/503] APCOTEXIND
+📦 Updated fundamentals in DB for: APCOTEXIND
+[132/503] PARKHOTELS
+📦 Updated fundamentals in DB for: PARKHOTELS
+[133/503] APOLLOPIPE
+📦 Updated fundamentals in DB for: APOLLOPIPE
+[134/503] APOLLOTYRE
+📦 Updated fundamentals in DB for: APOLLOTYRE
+[135/503] ARIHANTCAP
+📦 Updated fundamentals in DB for: ARIHANTCAP
+[136/503] ARIHANTSUP
+📦 Updated fundamentals in DB for: ARIHANTSUP
+[137/503] ARKADE
+📦 Updated fundamentals in DB for: ARKADE
+[138/503] ASHIANA
+📦 Updated fundamentals in DB for: ASHIANA
+[139/503] ASIANENE
+📦 Updated fundamentals in DB for: ASIANENE
+[140/503] ASIANTILES
+📦 Updated fundamentals in DB for: ASIANTILES
+[141/503] ATULAUTO
+📦 Updated fundamentals in DB for: ATULAUTO
+[142/503] BPCL
+📦 Updated fundamentals in DB for: BPCL
+[143/503] BFINVEST
+📦 Updated fundamentals in DB for: BFINVEST
+[144/503] BLSE
+📦 Updated fundamentals in DB for: BLSE
+[145/503] STYLEBAAZA
+📦 Updated fundamentals in DB for: STYLEBAAZA
+[146/503] BAJAJCON
+📦 Updated fundamentals in DB for: BAJAJCON
+[147/503] BAJAJHCARE
+📦 Updated fundamentals in DB for: BAJAJHCARE
+[148/503] BAJEL
+📦 Updated fundamentals in DB for: BAJEL
+[149/503] 532485
+📦 Updated fundamentals in DB for: 532485
+[150/503] BALMLAWRIE
+📦 Updated fundamentals in DB for: BALMLAWRIE
+[151/503] BALRAMCHIN
+📦 Updated fundamentals in DB for: BALRAMCHIN
+[152/503] BANSALWIRE
+📦 Updated fundamentals in DB for: BANSALWIRE
+[153/503] BHAGCHEM
+📦 Updated fundamentals in DB for: BHAGCHEM
+[154/503] 521238
+📦 Updated fundamentals in DB for: 521238
+[155/503] BLISSGVS
+📦 Updated fundamentals in DB for: BLISSGVS
+[156/503] 539607
+📦 Updated fundamentals in DB for: 539607
+[157/503] BOMDYEING
+📦 Updated fundamentals in DB for: BOMDYEING
+[158/503] BOROLTD
+📦 Updated fundamentals in DB for: BOROLTD
+[159/503] BOROSCI
+📦 Updated fundamentals in DB for: BOROSCI
+[160/503] BCG
+📦 Updated fundamentals in DB for: BCG
+[161/503] CESC
+📦 Updated fundamentals in DB for: CESC
+[162/503] CIEINDIA
+📦 Updated fundamentals in DB for: CIEINDIA
+[163/503] CAMPUS
+📦 Updated fundamentals in DB for: CAMPUS
+[164/503] CANTABIL
+📦 Updated fundamentals in DB for: CANTABIL
+[165/503] CASTROLIND
+📦 Updated fundamentals in DB for: CASTROLIND
+[166/503] CEIGALL
+📦 Updated fundamentals in DB for: CEIGALL
+[167/503] CENTENKA
+📦 Updated fundamentals in DB for: CENTENKA
+[168/503] CONFIPET
+📦 Updated fundamentals in DB for: CONFIPET
+[169/503] CREST
+📦 Updated fundamentals in DB for: CREST
+[170/503] 523105
+📦 Updated fundamentals in DB for: 523105
+[171/503] CYIENTDLM
+📦 Updated fundamentals in DB for: CYIENTDLM
+[172/503] DCMSRIND
+📦 Updated fundamentals in DB for: DCMSRIND
+[173/503] DCW
+📦 Updated fundamentals in DB for: DCW
+[174/503] DEEDEV
+📦 Updated fundamentals in DB for: DEEDEV
+[175/503] DABUR
+📦 Updated fundamentals in DB for: DABUR
+[176/503] DALBHARAT
+📦 Updated fundamentals in DB for: DALBHARAT
+[177/503] DELHIVERY
+📦 Updated fundamentals in DB for: DELHIVERY
+[178/503] DELTACORP
+📦 Updated fundamentals in DB for: DELTACORP
+[179/503] DEN
+📦 Updated fundamentals in DB for: DEN
+[180/503] DENTA
+📦 Updated fundamentals in DB for: DENTA
+[181/503] DVL
+📦 Updated fundamentals in DB for: DVL
+[182/503] DIFFNKG
+📦 Updated fundamentals in DB for: DIFFNKG
+[183/503] DOLLAR
+📦 Updated fundamentals in DB for: DOLLAR
+[184/503] DOLPHIN
+📦 Updated fundamentals in DB for: DOLPHIN
+[185/503] EFCIL
+📦 Updated fundamentals in DB for: EFCIL
+[186/503] EMIL
+📦 Updated fundamentals in DB for: EMIL
+[187/503] ELIN
+📦 Updated fundamentals in DB for: ELIN
+[188/503] ELLEN
+📦 Updated fundamentals in DB for: ELLEN
+[189/503] 504000
+📦 Updated fundamentals in DB for: 504000
+[190/503] EKC
+📦 Updated fundamentals in DB for: EKC
+[191/503] EXIDEIND
+📦 Updated fundamentals in DB for: EXIDEIND
+[192/503] FDC
+📦 Updated fundamentals in DB for: FDC
+[193/503] FAZE3Q
+📦 Updated fundamentals in DB for: FAZE3Q
+[194/503] 511628
+📦 Updated fundamentals in DB for: 511628
+[195/503] FILATEX
+📦 Updated fundamentals in DB for: FILATEX
+[196/503] FINPIPE
+📦 Updated fundamentals in DB for: FINPIPE
+[197/503] FSL
+📦 Updated fundamentals in DB for: FSL
+[198/503] FLAIR
+📦 Updated fundamentals in DB for: FLAIR
+[199/503] GNFC
+📦 Updated fundamentals in DB for: GNFC
+[200/503] GSFC
+📦 Updated fundamentals in DB for: GSFC
+[201/503] GAIL
+📦 Updated fundamentals in DB for: GAIL
+[202/503] GVPIL
+📦 Updated fundamentals in DB for: GVPIL
+[203/503] 505504
+📦 Updated fundamentals in DB for: 505504
+[204/503] GOCLCORP
+📦 Updated fundamentals in DB for: GOCLCORP
+[205/503] GPTHEALTH
+📦 Updated fundamentals in DB for: GPTHEALTH
+[206/503] GRMOVER
+📦 Updated fundamentals in DB for: GRMOVER
+[207/503] GTPL
+📦 Updated fundamentals in DB for: GTPL
+[208/503] GARUDA
+📦 Updated fundamentals in DB for: GARUDA
+[209/503] GATEWAY
+📦 Updated fundamentals in DB for: GATEWAY
+[210/503] GICRE
+📦 Updated fundamentals in DB for: GICRE
+[211/503] GODIGIT
+📦 Updated fundamentals in DB for: GODIGIT
+[212/503] GREAVESCOT
+📦 Updated fundamentals in DB for: GREAVESCOT
+[213/503] GREENPLY
+📦 Updated fundamentals in DB for: GREENPLY
+[214/503] GUFICBIO
+📦 Updated fundamentals in DB for: GUFICBIO
+[215/503] GIPCL
+📦 Updated fundamentals in DB for: GIPCL
+[216/503] GAEL
+📦 Updated fundamentals in DB for: GAEL
+[217/503] GSPL
+📦 Updated fundamentals in DB for: GSPL
+[218/503] HLEGLAS
+📦 Updated fundamentals in DB for: HLEGLAS
+[219/503] HPL
+📦 Updated fundamentals in DB for: HPL
+[220/503] HARSHA
+📦 Updated fundamentals in DB for: HARSHA
+[221/503] HATHWAY
+📦 Updated fundamentals in DB for: HATHWAY
+[222/503] HEIDELBERG
+📦 Updated fundamentals in DB for: HEIDELBERG
+[223/503] HERITGFOOD
+📦 Updated fundamentals in DB for: HERITGFOOD
+[224/503] HITECH
+📦 Updated fundamentals in DB for: HITECH
+[225/503] HSCL
+📦 Updated fundamentals in DB for: HSCL
+[226/503] HINDOILEXP
+📦 Updated fundamentals in DB for: HINDOILEXP
+[227/503] HINDCOPPER
+📦 Updated fundamentals in DB for: HINDCOPPER
+[228/503] HONASA
+📦 Updated fundamentals in DB for: HONASA
+[229/503] HUHTAMAKI
+📦 Updated fundamentals in DB for: HUHTAMAKI
+[230/503] IOC
+📦 Updated fundamentals in DB for: IOC
+[231/503] IFCI
+📦 Updated fundamentals in DB for: IFCI
+[232/503] IFGLEXPOR
+📦 Updated fundamentals in DB for: IFGLEXPOR
+[233/503] VINYLINDIA
+📦 Updated fundamentals in DB for: VINYLINDIA
+[234/503] IRMENERGY
+📦 Updated fundamentals in DB for: IRMENERGY
+[235/503] ITC
+📦 Updated fundamentals in DB for: ITC
+[236/503] ITCHOTELS
+📦 Updated fundamentals in DB for: ITCHOTELS
+[237/503] IMAGICAA
+📦 Updated fundamentals in DB for: IMAGICAA
+[238/503] BAJAJINDEF
+📦 Updated fundamentals in DB for: BAJAJINDEF
+[239/503] IPL
+📦 Updated fundamentals in DB for: IPL
+[240/503] INDOFARM
+📦 Updated fundamentals in DB for: INDOFARM
+[241/503] IGL
+📦 Updated fundamentals in DB for: IGL
+[242/503] INFIBPP
+📦 Updated fundamentals in DB for: INFIBPP
+[243/503] GENESYS
+📦 Updated fundamentals in DB for: GENESYS
+[244/503] IRCON
+📦 Updated fundamentals in DB for: IRCON
+[245/503] JGCHEM
+📦 Updated fundamentals in DB for: JGCHEM
+[246/503] JKPAPER
+📦 Updated fundamentals in DB for: JKPAPER
+[247/503] JKTYRE
+📦 Updated fundamentals in DB for: JKTYRE
+[248/503] JMFINANCIL
+📦 Updated fundamentals in DB for: JMFINANCIL
+[249/503] JTEKTINDIA
+📦 Updated fundamentals in DB for: JTEKTINDIA
+[250/503] JAGRAN
+📦 Updated fundamentals in DB for: JAGRAN
+[251/503] JAICORPLTD
+📦 Updated fundamentals in DB for: JAICORPLTD
+[252/503] JAMNAAUTO
+📦 Updated fundamentals in DB for: JAMNAAUTO
+[253/503] JAYBARMARU
+📦 Updated fundamentals in DB for: JAYBARMARU
+[254/503] JUNIPER
+📦 Updated fundamentals in DB for: JUNIPER
+[255/503] 590066
+📦 Updated fundamentals in DB for: 590066
+[256/503] 524520
+📦 Updated fundamentals in DB for: 524520
+[257/503] KRBL
+📦 Updated fundamentals in DB for: KRBL
+[258/503] KANSAINER
+📦 Updated fundamentals in DB for: KANSAINER
+[259/503] KITEX
+📦 Updated fundamentals in DB for: KITEX
+[260/503] KOKUYOCMLN
+📦 Updated fundamentals in DB for: KOKUYOCMLN
+[261/503] KROSS
+📦 Updated fundamentals in DB for: KROSS
+[262/503] LAOPALA
+📦 Updated fundamentals in DB for: LAOPALA
+[263/503] LATENTVIEW
+📦 Updated fundamentals in DB for: LATENTVIEW
+[264/503] LXCHEM
+📦 Updated fundamentals in DB for: LXCHEM
+[265/503] IXIGO
+📦 Updated fundamentals in DB for: IXIGO
+[266/503] LEMONTREE
+📦 Updated fundamentals in DB for: LEMONTREE
+[267/503] MBAPL
+📦 Updated fundamentals in DB for: MBAPL
+[268/503] MMTC
+📦 Updated fundamentals in DB for: MMTC
+[269/503] MOIL
+📦 Updated fundamentals in DB for: MOIL
+[270/503] 500264
+📦 Updated fundamentals in DB for: 500264
+[271/503] MAHLIFE
+📦 Updated fundamentals in DB for: MAHLIFE
+[272/503] MANAKCOAT
+📦 Updated fundamentals in DB for: MANAKCOAT
+[273/503] MANALIPETC
+📦 Updated fundamentals in DB for: MANALIPETC
+[274/503] MARINE
+📦 Updated fundamentals in DB for: MARINE
+[275/503] MAXESTATES
+📦 Updated fundamentals in DB for: MAXESTATES
+[276/503] 512267
+📦 Updated fundamentals in DB for: 512267
+[277/503] MIDHANI
+📦 Updated fundamentals in DB for: MIDHANI
+[278/503] MOREPENLAB
+📦 Updated fundamentals in DB for: MOREPENLAB
+[279/503] MOSCHIP
+📦 Updated fundamentals in DB for: MOSCHIP
+[280/503] MOTISONS
+📦 Updated fundamentals in DB for: MOTISONS
+[281/503] MUFIN
+📦 Updated fundamentals in DB for: MUFIN
+[282/503] MUKANDLTD
+📦 Updated fundamentals in DB for: MUKANDLTD
+[283/503] MUNJALAU
+📦 Updated fundamentals in DB for: MUNJALAU
+[284/503] NBCC
+📦 Updated fundamentals in DB for: NBCC
+[285/503] NCC
+📦 Updated fundamentals in DB for: NCC
+[286/503] NHPC
+📦 Updated fundamentals in DB for: NHPC
+[287/503] NIITLTD
+📦 Updated fundamentals in DB for: NIITLTD
+[288/503] NIITMTS
+📦 Updated fundamentals in DB for: NIITMTS
+[289/503] NMDC
+📦 Updated fundamentals in DB for: NMDC
+[290/503] NTPC
+📦 Updated fundamentals in DB for: NTPC
+[291/503] NTPCGREEN
+📦 Updated fundamentals in DB for: NTPCGREEN
+[292/503] NAZARA
+📦 Updated fundamentals in DB for: NAZARA
+[293/503] NELCAST
+📦 Updated fundamentals in DB for: NELCAST
+[294/503] NIACL
+📦 Updated fundamentals in DB for: NIACL
+[295/503] NORTHARC
+📦 Updated fundamentals in DB for: NORTHARC
+[296/503] ONGC
+📦 Updated fundamentals in DB for: ONGC
+[297/503] ORIENTCEM
+📦 Updated fundamentals in DB for: ORIENTCEM
+[298/503] ORIENTELEC
+📦 Updated fundamentals in DB for: ORIENTELEC
+[299/503] GREENPOWER
+📦 Updated fundamentals in DB for: GREENPOWER
+[300/503] ORIENTTECH
+📦 Updated fundamentals in DB for: ORIENTTECH
+[301/503] ORIENTHOT
+📦 Updated fundamentals in DB for: ORIENTHOT
+[302/503] PCJEWELLER
+📦 Updated fundamentals in DB for: PCJEWELLER
+[303/503] PTC
+📦 Updated fundamentals in DB for: PTC
+[304/503] PFS
+📦 Updated fundamentals in DB for: PFS
+[305/503] PARAGMILK
+📦 Updated fundamentals in DB for: PARAGMILK
+[306/503] PARACABLES
+📦 Updated fundamentals in DB for: PARACABLES
+[307/503] PENIND
+📦 Updated fundamentals in DB for: PENIND
+[308/503] PETRONET
+📦 Updated fundamentals in DB for: PETRONET
+[309/503] PLATIND
+📦 Updated fundamentals in DB for: PLATIND
+[310/503] POWERGRID
+📦 Updated fundamentals in DB for: POWERGRID
+[311/503] PRECWIRE
+📦 Updated fundamentals in DB for: PRECWIRE
+[312/503] PRECAM
+📦 Updated fundamentals in DB for: PRECAM
+[313/503] PRINCEPIPE
+📦 Updated fundamentals in DB for: PRINCEPIPE
+[314/503] PROSTARM
+📦 Updated fundamentals in DB for: PROSTARM
+[315/503] QUESS
+📦 Updated fundamentals in DB for: QUESS
+[316/503] RCF
+📦 Updated fundamentals in DB for: RCF
+[317/503] RSYSTEMS
+📦 Updated fundamentals in DB for: RSYSTEMS
+[318/503] 538119
+📦 Updated fundamentals in DB for: 538119
+[319/503] RHIM
+📦 Updated fundamentals in DB for: RHIM
+[320/503] 517035
+📦 Updated fundamentals in DB for: 517035
+[321/503] RAILTEL
+📦 Updated fundamentals in DB for: RAILTEL
+[322/503] RAJRILTD
+📦 Updated fundamentals in DB for: RAJRILTD
+[323/503] RALLIS
+📦 Updated fundamentals in DB for: RALLIS
+[324/503] RAMASTEEL
+📦 Updated fundamentals in DB for: RAMASTEEL
+[325/503] RAMCOIND
+📦 Updated fundamentals in DB for: RAMCOIND
+[326/503] REDINGTON
+📦 Updated fundamentals in DB for: REDINGTON
+[327/503] REDTAPE
+📦 Updated fundamentals in DB for: REDTAPE
+[328/503] RELAXO
+📦 Updated fundamentals in DB for: RELAXO
+[329/503] RELINFRA
+📦 Updated fundamentals in DB for: RELINFRA
+[330/503] RELIGARE
+📦 Updated fundamentals in DB for: RELIGARE
+[331/503] RGL
+📦 Updated fundamentals in DB for: RGL
+[332/503] RESPONIND
+📦 Updated fundamentals in DB for: RESPONIND
+[333/503] RICOAUTO
+📦 Updated fundamentals in DB for: RICOAUTO
+[334/503] RISHABH
+📦 Updated fundamentals in DB for: RISHABH
+[335/503] ROTO
+📦 Updated fundamentals in DB for: ROTO
+[336/503] RUPA
+📦 Updated fundamentals in DB for: RUPA
+[337/503] SAIL
+📦 Updated fundamentals in DB for: SAIL
+[338/503] SCI
+📦 Updated fundamentals in DB for: SCI
+[339/503] SHK
+📦 Updated fundamentals in DB for: SHK
+[340/503] SPIC
+📦 Updated fundamentals in DB for: SPIC
+[341/503] SBFC
+📦 Updated fundamentals in DB for: SBFC
+[342/503] SGFIN
+📦 Updated fundamentals in DB for: SGFIN
+[343/503] 512329
+📦 Updated fundamentals in DB for: 512329
+[344/503] SJVN
+📦 Updated fundamentals in DB for: SJVN
+[345/503] KALAMANDIR
+📦 Updated fundamentals in DB for: KALAMANDIR
+[346/503] 515043
+📦 Updated fundamentals in DB for: 515043
+[347/503] SALASAR
+📦 Updated fundamentals in DB for: SALASAR
+[348/503] SAMHI
+📦 Updated fundamentals in DB for: SAMHI
+[349/503] SANATHAN
+📦 Updated fundamentals in DB for: SANATHAN
+[350/503] SANDHAR
+📦 Updated fundamentals in DB for: SANDHAR
+[351/503] SANDUMA
+📦 Updated fundamentals in DB for: SANDUMA
+[352/503] SANGAMIND
+📦 Updated fundamentals in DB for: SANGAMIND
+[353/503] SAREGAMA
+📦 Updated fundamentals in DB for: SAREGAMA
+[354/503] SATIN
+📦 Updated fundamentals in DB for: SATIN
+[355/503] SOTL
+📦 Updated fundamentals in DB for: SOTL
+[356/503] SENCO
+📦 Updated fundamentals in DB for: SENCO
+[357/503] SEQUENT
+📦 Updated fundamentals in DB for: SEQUENT
+[358/503] SERVOTECH
+📦 Updated fundamentals in DB for: SERVOTECH
+[359/503] SESHAPAPER
+📦 Updated fundamentals in DB for: SESHAPAPER
+[360/503] SHREDIGCEM
+📦 Updated fundamentals in DB for: SHREDIGCEM
+[361/503] SHREEPUSHK
+📦 Updated fundamentals in DB for: SHREEPUSHK
+[362/503] 539921
+📦 Updated fundamentals in DB for: 539921
+[363/503] SHREMINVIT
+📦 Updated fundamentals in DB for: SHREMINVIT
+[364/503] SHRIRAMPPS
+📦 Updated fundamentals in DB for: SHRIRAMPPS
+[365/503] SIGNPOST
+📦 Updated fundamentals in DB for: SIGNPOST
+[366/503] SDBL
+📦 Updated fundamentals in DB for: SDBL
+[367/503] SOMANYCERA
+📦 Updated fundamentals in DB for: SOMANYCERA
+[368/503] SPORTKING
+📦 Updated fundamentals in DB for: SPORTKING
+[369/503] STALLION
+📦 Updated fundamentals in DB for: STALLION
+[370/503] SGLTL
+📦 Updated fundamentals in DB for: SGLTL
+[371/503] STANLEY
+📦 Updated fundamentals in DB for: STANLEY
+[372/503] STARCEMENT
+📦 Updated fundamentals in DB for: STARCEMENT
+[373/503] STARHEALTH
+📦 Updated fundamentals in DB for: STARHEALTH
+[374/503] SSWL
+📦 Updated fundamentals in DB for: SSWL
+[375/503] STERTOOLS
+📦 Updated fundamentals in DB for: STERTOOLS
+[376/503] SULA
+📦 Updated fundamentals in DB for: SULA
+[377/503] SUNFLAG
+📦 Updated fundamentals in DB for: SUNFLAG
+[378/503] SUNTECK
+📦 Updated fundamentals in DB for: SUNTECK
+[379/503] SURAKSHA
+📦 Updated fundamentals in DB for: SURAKSHA
+[380/503] SURYAROSNI
+📦 Updated fundamentals in DB for: SURYAROSNI
+[381/503] SUZLON
+📦 Updated fundamentals in DB for: SUZLON
+[382/503] SYNCOMF
+📦 Updated fundamentals in DB for: SYNCOMF
+[383/503] TBZ
+📦 Updated fundamentals in DB for: TBZ
+[384/503] 507753
+📦 Updated fundamentals in DB for: 507753
+[385/503] TARSONS
+📦 Updated fundamentals in DB for: TARSONS
+[386/503] TATAPOWER
+📦 Updated fundamentals in DB for: TATAPOWER
+[387/503] TEXRAIL
+📦 Updated fundamentals in DB for: TEXRAIL
+[388/503] THOMASCOOK
+📦 Updated fundamentals in DB for: THOMASCOOK
+[389/503] TIMETECHNO
+📦 Updated fundamentals in DB for: TIMETECHNO
+[390/503] TRIDENT
+📦 Updated fundamentals in DB for: TRIDENT
+[391/503] UEL
+📦 Updated fundamentals in DB for: UEL
+[392/503] 506685
+📦 Updated fundamentals in DB for: 506685
+[393/503] UNIECOM
+📦 Updated fundamentals in DB for: UNIECOM
+[394/503] UNIPARTS
+📦 Updated fundamentals in DB for: UNIPARTS
+[395/503] UDS
+📦 Updated fundamentals in DB for: UDS
+[396/503] VGUARD
+📦 Updated fundamentals in DB for: VGUARD
+[397/503] VRLLOG
+📦 Updated fundamentals in DB for: VRLLOG
+[398/503] VTL
+📦 Updated fundamentals in DB for: VTL
+[399/503] VISHNU
+📦 Updated fundamentals in DB for: VISHNU
+[400/503] WELENT
+📦 Updated fundamentals in DB for: WELENT
+[401/503] WELSPUNLIV
+📦 Updated fundamentals in DB for: WELSPUNLIV
+[402/503] WSTCSTPAPR
+📦 Updated fundamentals in DB for: WSTCSTPAPR
+[403/503] WCIL
+📦 Updated fundamentals in DB for: WCIL
+[404/503] WIPRO
+📦 Updated fundamentals in DB for: WIPRO
+[405/503] WEL
+📦 Updated fundamentals in DB for: WEL
+[406/503] 544310
+📦 Updated fundamentals in DB for: 544310
+[407/503] YATRA
+📦 Updated fundamentals in DB for: YATRA
+[408/503] ZAGGLE
+📦 Updated fundamentals in DB for: ZAGGLE
+[409/503] ZEEL
+📦 Updated fundamentals in DB for: ZEEL
+[410/503] ZYDUSWELL
+📦 Updated fundamentals in DB for: ZYDUSWELL
+[411/503] GANESHIN
+📦 Updated fundamentals in DB for: GANESHIN
+[412/503] SAHANA
+📦 Updated fundamentals in DB for: SAHANA
+[413/503] ASHOKLEY
+📦 Updated fundamentals in DB for: ASHOKLEY
+[414/503] ALLCARGO
+📦 Updated fundamentals in DB for: ALLCARGO
+[415/503] ARTEMISMED
+📦 Updated fundamentals in DB for: ARTEMISMED
+[416/503] BLKASHYAP
+📦 Updated fundamentals in DB for: BLKASHYAP
+[417/503] BAJAJHFL
+📦 Updated fundamentals in DB for: BAJAJHFL
+[418/503] FIRSTCRY
+📦 Updated fundamentals in DB for: FIRSTCRY
+[419/503] CAPINVIT
+📦 Updated fundamentals in DB for: CAPINVIT
+[420/503] CENTRALBK
+📦 Updated fundamentals in DB for: CENTRALBK
+[421/503] DCXINDIA
+📦 Updated fundamentals in DB for: DCXINDIA
+[422/503] EPACK
+📦 Updated fundamentals in DB for: EPACK
+[423/503] FINOPB
+📦 Updated fundamentals in DB for: FINOPB
+[424/503] GMRPUI
+📦 Updated fundamentals in DB for: GMRPUI
+[425/503] GODAVARIB
+📦 Updated fundamentals in DB for: GODAVARIB
+[426/503] GREENPANEL
+📦 Updated fundamentals in DB for: GREENPANEL
+[427/503] HCC
+📦 Updated fundamentals in DB for: HCC
+[428/503] IOB
+📦 Updated fundamentals in DB for: IOB
+[429/503] ITI
+📦 Updated fundamentals in DB for: ITI
+[430/503] DPSCLTD
+📦 Updated fundamentals in DB for: DPSCLTD
+[431/503] JPPOWER
+📦 Updated fundamentals in DB for: JPPOWER
+[432/503] MICEL
+📦 Updated fundamentals in DB for: MICEL
+[433/503] NACLIND
+📦 Updated fundamentals in DB for: NACLIND
+[434/503] NAVKARCORP
+📦 Updated fundamentals in DB for: NAVKARCORP
+[435/503] MOBIKWIK
+📦 Updated fundamentals in DB for: MOBIKWIK
+[436/503] PANACEABIO
+📦 Updated fundamentals in DB for: PANACEABIO
+[437/503] PATELENG
+📦 Updated fundamentals in DB for: PATELENG
+[438/503] PENINLAND
+📦 Updated fundamentals in DB for: PENINLAND
+[439/503] PPLPHARMA
+📦 Updated fundamentals in DB for: PPLPHARMA
+[440/503] RAJESHEXPO
+📦 Updated fundamentals in DB for: RAJESHEXPO
+[441/503] RBA
+📦 Updated fundamentals in DB for: RBA
+[442/503] SEPC
+📦 Updated fundamentals in DB for: SEPC
+[443/503] SMSPHARMA
+📦 Updated fundamentals in DB for: SMSPHARMA
+[444/503] RENUKA
+📦 Updated fundamentals in DB for: RENUKA
+[445/503] SCILAL
+📦 Updated fundamentals in DB for: SCILAL
+[446/503] SINDHUTRAD
+📦 Updated fundamentals in DB for: SINDHUTRAD
+[447/503] SPANDANA
+📦 Updated fundamentals in DB for: SPANDANA
+[448/503] SWANCORP
+📦 Updated fundamentals in DB for: SWANCORP
+[449/503] SWIGGY
+📦 Updated fundamentals in DB for: SWIGGY
+[450/503] TVSSCS
+📦 Updated fundamentals in DB for: TVSSCS
+[451/503] TEXINFRA
+📦 Updated fundamentals in DB for: TEXINFRA
+[452/503] UCOBANK
+📦 Updated fundamentals in DB for: UCOBANK
+[453/503] UGROCAP
+📦 Updated fundamentals in DB for: UGROCAP
+[454/503] VERANDA
+📦 Updated fundamentals in DB for: VERANDA
+[455/503] 500365
+📦 Updated fundamentals in DB for: 500365
+[456/503] ARVIND
+📦 Updated fundamentals in DB for: ARVIND
+[457/503] BANDHANBNK
+📦 Updated fundamentals in DB for: BANDHANBNK
+[458/503] EPL
+📦 Updated fundamentals in DB for: EPL
+[459/503] ELECTCAST
+📦 Updated fundamentals in DB for: ELECTCAST
+[460/503] GENUSPOWER
+📦 Updated fundamentals in DB for: GENUSPOWER
+[461/503] IRFC
+📦 Updated fundamentals in DB for: IRFC
+[462/503] IRB
+📦 Updated fundamentals in DB for: IRB
+[463/503] INOXWIND
+📦 Updated fundamentals in DB for: INOXWIND
+[464/503] JAIBALAJI
+📦 Updated fundamentals in DB for: JAIBALAJI
+[465/503] JINDALSAW
+📦 Updated fundamentals in DB for: JINDALSAW
+[466/503] KALYANKJIL
+📦 Updated fundamentals in DB for: KALYANKJIL
+[467/503] KTKBANK
+📦 Updated fundamentals in DB for: KTKBANK
+[468/503] LLOYDSENT
+📦 Updated fundamentals in DB for: LLOYDSENT
+[469/503] PNBGILTS
+📦 Updated fundamentals in DB for: PNBGILTS
+[470/503] PSB
+📦 Updated fundamentals in DB for: PSB
+[471/503] REPCOHOME
+📦 Updated fundamentals in DB for: REPCOHOME
+[472/503] MOTHERSON
+📦 Updated fundamentals in DB for: MOTHERSON
+[473/503] ZUARI
+📦 Updated fundamentals in DB for: ZUARI
+[474/503] AFSL
+📦 Updated fundamentals in DB for: AFSL
+[475/503] BAJAJHIND
+📦 Updated fundamentals in DB for: BAJAJHIND
+[476/503] HERANBA
+📦 Updated fundamentals in DB for: HERANBA
+[477/503] HIKAL
+📦 Updated fundamentals in DB for: HIKAL
+[478/503] HIMATSEIDE
+📦 Updated fundamentals in DB for: HIMATSEIDE
+[479/503] IGPL
+📦 Updated fundamentals in DB for: IGPL
+[480/503] JISLDVREQS
+📦 Updated fundamentals in DB for: JISLDVREQS
+[481/503] JINDWORLD
+📦 Updated fundamentals in DB for: JINDWORLD
+[482/503] MSPL
+📦 Updated fundamentals in DB for: MSPL
+[483/503] MAHLOG
+📦 Updated fundamentals in DB for: MAHLOG
+[484/503] NETWORK18
+📦 Updated fundamentals in DB for: NETWORK18
+[485/503] OMAXE
+📦 Updated fundamentals in DB for: OMAXE
+[486/503] OAL
+📦 Updated fundamentals in DB for: OAL
+[487/503] RAIN
+📦 Updated fundamentals in DB for: RAIN
+[488/503] RTNPOWER
+📦 Updated fundamentals in DB for: RTNPOWER
+[489/503] SIS
+📦 Updated fundamentals in DB for: SIS
+[490/503] SAMMAANCAP
+📦 Updated fundamentals in DB for: SAMMAANCAP
+[491/503] STEELXIND
+📦 Updated fundamentals in DB for: STEELXIND
+[492/503] SWSOLAR
+📦 Updated fundamentals in DB for: SWSOLAR
+[493/503] STLTECH
+📦 Updated fundamentals in DB for: STLTECH
+[494/503] TNPL
+📦 Updated fundamentals in DB for: TNPL
+[495/503] VASCONEQ
+📦 Updated fundamentals in DB for: VASCONEQ
+[496/503] MAHABANK
+📦 Updated fundamentals in DB for: MAHABANK
+[497/503] PFC
+📦 Updated fundamentals in DB for: PFC
+[498/503] SIGACHI
+📦 Updated fundamentals in DB for: SIGACHI
+[499/503] SIRCA
+📦 Updated fundamentals in DB for: SIRCA
+[500/503] DCAL
+📦 Updated fundamentals in DB for: DCAL
+[501/503] INDORAMA
+📦 Updated fundamentals in DB for: INDORAMA
+[502/503] JAYNECOIND
+📦 Updated fundamentals in DB for: JAYNECOIND
+[503/503] KHAICHEM
+📦 Updated fundamentals in DB for: KHAICHEM
+✅ Done. OK=503, FAIL=0, TOTAL=503
